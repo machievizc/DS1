@@ -4,6 +4,7 @@
 }
 body {
     font-family: 'Segoe UI Light', Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
 }
 header {
     background-color: #2b579a;
@@ -15,6 +16,25 @@ h1 {
     font-weight: normal;
     padding: 20px 30px;
 }
+nav{
+    background-color: rgba(0, 0, 0, 0.8);
+
+}
+nav ul{
+    list-style: none;
+    display: inline-block;
+
+}
+nav li{
+    display: inline-block;
+    padding: 0.7em 0;
+}
+nav li a{
+    color: #fff;
+    text-decoration: ;
+    font-size: ;
+}
+
 section { 
     margin: 20px;
 }
