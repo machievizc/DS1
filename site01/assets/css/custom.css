@@ -7,3 +7,15 @@ nav{
 nav li{
     list-style: none;
 }
+
+.card{
+width: 18rem;
+}
+
+.space20pxtop{
+    margin-top: 20px;
+}
+
+footer{
+    background-color:#e7f7f7;
+}
